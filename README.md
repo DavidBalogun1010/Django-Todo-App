@@ -73,33 +73,33 @@ todo_project/
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository:**
+# 1. **Clone the repository:**
 
 bash
-git clone https://github.com/yourusername/django-todo-app.git
+git clone https://github.com/DavidBalogun1010/django-todo-app.git
 cd django-todo-app
 
 
-2. ** Create and activate a virtual environment:**
+# 2. ** Create and activate a virtual environment:**
 
 python -m venv venv
-# Windows
+Windows
 venv\Scripts\activate
-# macOS/Linux
+macOS/Linux
 source venv/bin/activate
 
 
-3.** Install dependencies:**
+# 3.** Install dependencies:**
 
 pip install -r requirements.txt
 
 
-4. ** Apply migrations:**
+#4. ** Apply migrations:**
 
 python manage.py migrate
 
 
-5. ** Run the development server:**
+#. ** Run the development server:**
 
 python manage.py runserver
 
