@@ -75,12 +75,12 @@ todo_project/
 
 1. **Clone the repository:**
 
-```bash
+bash
 git clone https://github.com/yourusername/django-todo-app.git
 cd django-todo-app
 
 
-Create and activate a virtual environment:
+2. ** Create and activate a virtual environment:**
 
 python -m venv venv
 # Windows
@@ -89,26 +89,25 @@ venv\Scripts\activate
 source venv/bin/activate
 
 
-Install dependencies:
+3.** Install dependencies:**
 
 pip install -r requirements.txt
 
 
-Apply migrations:
+4. ** Apply migrations:**
 
 python manage.py migrate
 
 
-Run the development server:
+5. ** Run the development server:**
 
 python manage.py runserver
-
 
 Open the app in your browser:
 
 http://127.0.0.1:8000
 
-🎯 Usage
+# 🎯 Usage
 
 Navigate to the homepage to see the list of tasks.
 
@@ -120,9 +119,9 @@ Tasks display Pending or Completed badges.
 
 Due dates are displayed for each task.
 
-Optional: You can style further or add Bootstrap components for a modern dashboard look.
+# Optional: You can style further or add Bootstrap components for a modern dashboard look.
 
-🧪 Running Tests
+# 🧪 Running Tests
 
 Run all automated tests:
 
@@ -141,19 +140,12 @@ Marking task as resolved
 
 Task listing
 
-📷 Screenshots
+# 📷 Screenshots
 
-(Add screenshots of your app here)
-
-Example:
-
-Task List Page
+<img width="1914" height="989" alt="image" src="https://github.com/user-attachments/assets/1b8abd95-9383-4a65-8631-3f73e7139f46" />
 
 
-Add/Edit Task Form
-
-
-🌟 Future Enhancements
+# 🌟 Future Enhancements
 
 Add user authentication (multi-user support)
 
@@ -165,14 +157,14 @@ Improve UI with drag-and-drop task ordering
 
 Notifications for overdue tasks
 
-📜 License
+# 📜 License
 
 This project is licensed under the MIT License.
 © 2025 Your Name
 
-🙋‍♂️ Author
+# 🙋‍♂️ Author
 
-Your Name – GitHub
+Your Name – David Balogun
 
 ## 📁 Project Structure
 
