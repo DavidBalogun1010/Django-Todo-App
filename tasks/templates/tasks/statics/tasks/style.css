@@ -1,0 +1,23 @@
+body {
+    background-color: #f8f9fa; /* light gray background */
+}
+
+table th, table td {
+    vertical-align: middle;
+}
+
+.table-success {
+    background-color: #d4edda !important;
+}
+
+.table-warning {
+    background-color: #fff3cd !important;
+}
+
+.navbar {
+    margin-bottom: 30px;
+}
+
+.btn {
+    margin-right: 5px;
+}
